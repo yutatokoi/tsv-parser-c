@@ -1,7 +1,5 @@
 # TSV Parser in C
 
-(Code is being released in a few weeks, once grading is finished)
-
 This is my first program written in C. ~600 lines of code.
 
 Given a .tsv file, the program will:
